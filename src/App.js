@@ -15,8 +15,8 @@ export default function App() {
 			questionText: ' Which is the fastest bird?',
 			answerOptions: [
 				{ answerText: 'Hawk', isCorrect: false },
-				{ answerText: 'Eagle', isCorrect: true },
-				{ answerText: 'Perigrine Falcon', isCorrect: false },
+				{ answerText: 'Eagle', isCorrect: false },
+				{ answerText: 'Perigrine Falcon', isCorrect: true },
 				{ answerText: 'Stork', isCorrect: false },
 			],
 		},
